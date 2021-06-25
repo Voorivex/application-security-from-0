@@ -39,14 +39,19 @@ Chapter 2 - Internet
 
 Chapter 3 - HTTP protocol
 - Versions and RFCs
-- URLs and schemes
+- Webserver again
+- URLs
+  - Syntax and parts
+  - Check a URL list 
 - HTTP
-  - Packet
-  - Methods
+  - Message
+  - Request line
+  - HTTP method
+  - Status line
   - Headers
-  - Flow
-  - Status code
-  - Deeper in the packet
+  - Body
+- Sending some HTTP requets
+- Important headers
 - Being Stateless, Important Issue
 - HTTPS
   - Symmetric and Asymmetric algorithms
