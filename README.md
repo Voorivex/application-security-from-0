@@ -52,10 +52,22 @@ Chapter 3 - HTTP protocol
   - Body
 - Sending some HTTP requets
 - Important headers
-- Being Stateless, Important Issue
+  - Authentication
+  - Caching
+  - Conditional
+  - Cookie
+  - CORS
+  - Message Body
+  - Proxies
+  - Redirects
+  - Request Context
+  - Security
 - HTTPS
-  - Symmetric and Asymmetric algorithms
+  - Reveiw, Problem
+  - Symmetric Encryption
+  - Asymmetric Encryption
   - Signature and authentication
+  - SSL Protocol
   - Certificates and authorities
   - Trust chain
   - How does SSL work?
