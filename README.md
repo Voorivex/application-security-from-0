@@ -156,7 +156,8 @@ Chapter 7 - More vulnerabilities
 - Introduction to HTTP Smuggling
 - Introduction to HTTP Cache Poisoning
 - Introduction to HTTP Cache Deception
-- Chapter 8 - The end
+
+Chapter 8 - The end
 - Vulnerability discovery
 - The assessment methodology
 - The hunting methodology
