@@ -92,7 +92,6 @@ Chapter 4 - Web application architecture
 - TODO
 
 Chapter 5 - Security
-
 - Vulnerability
   - The root cause
   - Technical vulnerabilities
@@ -130,32 +129,34 @@ Chapter 5 - Security
   - Red team penetration test
   - Bug bounty
   - SIEM and SOC
-- Chapter 6 - OWASP TOP 10
-  - Introduction to SQL injection
-  - Introduction to Command injection
-  - Introduction to Remote Code Injection
-  - Introduction to Broken Authentication
-  - Introduction to Sensitive Data Exposure
-  - Introduction to XML External Entities
-  - Introduction to Broken Access Control
-    - Concept
-    - Insecure Direct Object Reference
-  - Introduction to Security Misconfiguration
-  - Introduction to Cross-Site Script
-    - Concept
-    - Discovery
-    - Impact
-  - Introduction to Insecure Deserialization
-  - Using component with known vulnerabilities
-  - Insufficient Logging and Monitoring
-- Chapter 7 - More vulnerabilities
-  - Introduction to Open Redirect
-  - Introduction to Server Side Request Forgery
-  - Introduction to Race Condition
-  - Introduction to HTTP Smuggling
-  - Introduction to HTTP Cache Poisoning
-  - Introduction to HTTP Cache Deception
+
+Chapter 6 - OWASP TOP 10
+- Introduction to SQL injection
+- Introduction to Command injection
+- Introduction to Remote Code Injection
+- Introduction to Broken Authentication
+- Introduction to Sensitive Data Exposure
+- Introduction to XML External Entities
+- Introduction to Broken Access Control
+  - Concept
+  - Insecure Direct Object Reference
+- Introduction to Security Misconfiguration
+- Introduction to Cross-Site Script
+  - Concept
+  - Discovery
+  - Impact
+- Introduction to Insecure Deserialization
+- Using component with known vulnerabilities
+- Insufficient Logging and Monitoring
+
+Chapter 7 - More vulnerabilities
+- Introduction to Open Redirect
+- Introduction to Server Side Request Forgery
+- Introduction to Race Condition
+- Introduction to HTTP Smuggling
+- Introduction to HTTP Cache Poisoning
+- Introduction to HTTP Cache Deception
 - Chapter 8 - The end
-  - Vulnerability discovery
-  - The assessment methodology
-  - The hunting methodology
+- Vulnerability discovery
+- The assessment methodology
+- The hunting methodology
