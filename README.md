@@ -78,10 +78,37 @@ Chapter 3 - HTTP protocol
 Chapter 4 - Web application architecture
 
 - Web server
-  - Static resource
-  - Configurations
-  - Privilege problem
-  - Authentication and Authorization
+  - Installing Apache
+  - Configuring Apache
+    - ServerRoot
+    - Listen
+    - User and Group
+    - ServerName
+    - DocumentRoot
+    - ErrorLog
+    - Directory
+    - Files
+    - IfModule
+    - Include
+    - IncludeOptional
+  - Process owner
+  - Packet flow
+  - Some comcepts
+    - Virtual host
+      - Configuration
+      - Access
+    - Mapping
+    - htaccess
+    - Wrerite module
+  - Security
+    - IP based authentication
+    - Checking referrer header
+    - Denying sensitive directories
+    - Authentication
+      - types
+      - Configuring basic authentication
+      - Attack on basic authentication
+  - Static vs dynamic resources
 - What is a web application?
 - Traditional architecture
   - Web server + language
