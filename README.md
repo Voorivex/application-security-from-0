@@ -1,6 +1,6 @@
 **Yasho Application Security Course (YAS)**
 
-Chapter 1 - What is this course
+[Chapter 1 - What is this course](https://www.youtube.com/watch?v=xBRyTsOMQRk)
 
 - Who am I?
 - What is going to be covered?
