@@ -1,5 +1,7 @@
 **Yasho Application Security Course (YAS)**
 
+[List of recommended books for the course](./books.md)
+
 [Chapter 1 - What is this course](https://www.youtube.com/watch?v=xBRyTsOMQRk)
 
 - Who am I?
