@@ -108,6 +108,8 @@ Chapter 4 - Web application architecture
       - types
       - Configuring basic authentication
       - Attack on basic authentication
+        - Brute force
+        - Sniffing
   - Static vs dynamic resources
 - What is a web application?
 - Traditional architecture
