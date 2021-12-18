@@ -1,6 +1,8 @@
 **Yasho Application Security Course (YAS)**
 
-Chapter 1 - What is this course
+[List of recommended books for the course](./books.md)
+
+[Chapter 1 - What is this course](https://www.youtube.com/watch?v=xBRyTsOMQRk)
 
 - Who am I?
 - What is going to be covered?
@@ -51,17 +53,18 @@ Chapter 3 - HTTP protocol
   - Headers
   - Body
 - Sending some HTTP requets
-- Important headers
-  - Authentication
-  - Caching
-  - Conditional
-  - Cookie
-  - CORS
-  - Message Body
-  - Proxies
-  - Redirects
-  - Request Context
-  - Security
+- [the list of all headers](https://developer.mozilla.org/en-US/docs/Web/API/Headers)
+  - Important headers
+    - Authentication
+    - Caching
+    - Conditional
+    - Cookie
+    - CORS
+    - Message Body
+    - Proxies
+    - Redirects
+    - Request Context
+    - Security
 - HTTPS
   - Reveiw, Problem
   - Symmetric Encryption
