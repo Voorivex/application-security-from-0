@@ -113,15 +113,16 @@ Chapter 4 - Web application architecture
       - Attack on basic authentication
         - Brute force
         - Sniffing
+- Web application
   - Static vs dynamic resources
-    - How webservers can make dynamic contents?
-    - What is directory traversal?
-    - Let's trace users inputs
-  - Authentication
-    - How it works in web applications?
-    - Handling authentication by cookie
-    - Handling authentication by session
-    - Handling authentication with a Database
+  - How webservers can make dynamic contents?
+  - What is directory traversal?
+  - Let's trace users inputs
+- Authentication
+  - How it works in web applications?
+  - Handling authentication by cookie
+  - Handling authentication by session
+  - Handling authentication with a Database
 
 Chapter 5 - Security
 - Vulnerability
