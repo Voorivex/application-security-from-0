@@ -114,14 +114,14 @@ Chapter 4 - Web application architecture
         - Brute force
         - Sniffing
   - Static vs dynamic resources
-- What is a web application?
-- Traditional architecture
-  - Web server + language
-- Modern architecture
-  - TODO
-- Digging HTTP content types
-  - TODO
-- TODO
+    - How webservers can make dynamic contents?
+    - What is directory traversal?
+    - Let's trace users inputs
+  - Authentication
+    - How it works in web applications?
+    - Handling authentication by cookie
+    - Handling authentication by session
+    - Handling authentication with a Database
 
 Chapter 5 - Security
 - Vulnerability
