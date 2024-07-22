@@ -66,7 +66,7 @@ Chapter 3 - HTTP protocol
     - Request Context
     - Security
 - HTTPS
-  - Reveiw, Problem
+  - Review, Problem
   - Symmetric Encryption
   - Asymmetric Encryption
   - Signature and authentication
@@ -102,7 +102,7 @@ Chapter 4 - Web application architecture
       - Access
     - Mapping
     - htaccess
-    - Wrerite module
+    - Rewrite module
   - Security
     - IP based authentication
     - Checking referrer header
